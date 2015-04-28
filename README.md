@@ -3,4 +3,5 @@ Code to make memes
 
 
 # To do:
-- [ ] test files
+- [ ] Host online
+- [ ] Checkout http://lightbird.net/dbe2/portfolio.html to combine concept
